@@ -8,5 +8,7 @@ Todo:
 
   -  Make option to change the number range that the code uses (currently 9-10 digits)
   -  Create a check to see if the ID that is loaded is actually a game or not without DDoSing roblox
-  -  Make HTML look prettier
+  -  Make HTML page
+  -  Make compatible with Manifest 3 (ew)
   -  Upload to Chrome Web Store
+  
